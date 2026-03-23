@@ -1,16 +1,20 @@
-## Hi there 👋
+## Hi there 🚀🚀
+</br>
+</br>
+Sou Luiz Henrique, Desenvolvedor Front-End em inicio de carreira. Aprendi HTML5, CSS3 e no momento JavaScript, criando projetos no dia a dia.
+Também com a ajuda da IA, uma conselheira nas minhas dúvidas nesse mundo da tecnologia.
 
-<!--
-**Lhenrique-dev/Lhenrique-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Luiz-Henrique stats](https://github-readme-stats.vercel.app/api?username=Lhenrique-dev)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lhenrique-dev)](https://github.com/anuraghazra/github-readme-stats)
+
+Redes Sociais:
+
+<a href="https://www.linkedin.com/in/luiztoledo87/">Linkedin</a>
+
+Portfólio:
+
+<a href="https://www.meuportifoliodev.com.br/">Portfólio</a>
+
