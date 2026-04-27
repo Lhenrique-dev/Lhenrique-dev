@@ -16,5 +16,5 @@ Redes Sociais:
 
 Portfólio:
 
-<a href="https://www.meuportifoliodev.com.br/">Portfólio</a>
+<a href="https://www.meuportfoliodev.com.br/">Portfólio</a>
 
