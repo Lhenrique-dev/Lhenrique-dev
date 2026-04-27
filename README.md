@@ -1,20 +1,20 @@
-## Hi there 🚀🚀
-</br>
-</br>
-Sou Luiz Henrique, Desenvolvedor Front-End em inicio de carreira. Aprendi HTML5, CSS3 e no momento JavaScript, criando projetos no dia a dia.
-Também com a ajuda da IA, uma conselheira nas minhas dúvidas nesse mundo da tecnologia.
+# Olá, eu sou Luiz Henrique 👋
 
+Sou um Desenvolvedor Front End Júnior entusiasta em aprendizado contínuo, apaixonado por criar soluções eficientes com código limpo. 
 
+## 🚀 Sobre mim
 
-[![Luiz-Henrique stats](https://github-readme-stats.vercel.app/api?username=Lhenrique-dev)](https://github.com/anuraghazra/github-readme-stats)
+- 💻 No momento domino ás tecnologias HTML5, CSS3, estou praticando JavaScript e framework Bootstrap 5
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lhenrique-dev)](https://github.com/anuraghazra/github-readme-stats)
+- 📚 Apaixonado por tecnologias e suas atualidades, como IA e ás Soft Skills desejados no mercado.
 
-Redes Sociais:
+- 🌱 Em busca de melhorar minhas habilidades em colaboração e versionamento
 
-<a href="https://www.linkedin.com/in/luiztoledo87/">Linkedin</a>
+## 📫 Como me encontrar
+- Portfólio: https://www.meuportfoliodev.com.br/ ;
+- LinkedIn: https://www.linkedin.com/in/luiztoledo87/ ;
+- Email: l.henrique2025@hotmail.com.
 
-Portfólio:
+---
 
-<a href="https://www.meuportfoliodev.com.br/">Portfólio</a>
-
+*Obrigado por visitar meu perfil! Vamos construir código juntos! 🚀*
