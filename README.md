@@ -34,7 +34,7 @@ Adoro trocar ideias sobre tecnologia, design e desenvolvimento. Vamos conversar?
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/[SEU-LINKEDIN])
 [![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu-email@gmail.com)
-[![Meu Portfólio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://[SEU-SITE].com)
+[![Meu Portfólio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://www.meuportfoliodev.com.br/.com)
 
 ---
 
