@@ -1,4 +1,4 @@
-# Olá, eu sou o [Seu Nome]! 👋
+# Olá, eu sou o Luiz Henrique! 👋
 
 ### 🚀 Desenvolvedor(a) Front-End em constante evolução
 
@@ -32,8 +32,8 @@ Aqui estão as principais tecnologias que utilizo no meu dia a dia para dar vida
 
 Adoro trocar ideias sobre tecnologia, design e desenvolvimento. Vamos conversar?
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/[SEU-LINKEDIN])
-[![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu-email@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/luiztoledo87/)
+[![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:l.henrique2025@hotmail.com)
 [![Meu Portfólio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://www.meuportfoliodev.com.br/.com)
 
 ---
