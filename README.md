@@ -19,14 +19,7 @@ Aqui estão as principais tecnologias que utilizo no meu dia a dia para dar vida
 
 ---
 
-## 📈 Estatísticas do GitHub
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lhenrique-dev&show_icons=true&theme=radial&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lhenrique-dev&layout=compact&langs_count=7&theme=radial" />
-</div>
-
----
 
 ## 🤝 Conecte-se comigo
 
